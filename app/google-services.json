@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715361259612",
+    "project_id": "my-league-3931e",
+    "storage_bucket": "my-league-3931e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715361259612:android:250004bfeedc34076c9699",
+        "android_client_info": {
+          "package_name": "com.krissmile31.myleague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715361259612-o8ilpovf5qsb54qodnod2kp85snekg5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxi40yipdvAqCW7Qh7s9AfblqYXcCVlMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715361259612-o8ilpovf5qsb54qodnod2kp85snekg5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
